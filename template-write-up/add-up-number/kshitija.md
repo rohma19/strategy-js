@@ -1,3 +1,9 @@
+# [Kshijita] (https://edabit.com/user/mwg8jvMHHmQiQRrbr)
+
+function addUp(num) {
+  return num === 0 ? num : num + addUp(num - 1);
+}
+
 # Strategy
 
 The user implemented a recursive strategy to solve the problem. They're using a

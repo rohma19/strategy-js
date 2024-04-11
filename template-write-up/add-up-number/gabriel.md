@@ -1,3 +1,14 @@
+# [Gabriel] (https://edabit.com/user/akYGmQ9iZcZm2d8BP)
+
+
+function addUp(num) {
+  let sum = 0;
+  for (let i = 1; i <= num; i++) {
+    sum += i;
+  }
+  return sum;
+}
+
 # Strategy
 
 The strategy employed here is a straightforward iterative approach to calculate
