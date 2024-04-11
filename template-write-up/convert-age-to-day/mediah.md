@@ -24,7 +24,7 @@ The implementation is concise and utilizes basic arithmetic operations.
 ## Possible Refactors
 
 - **Leap Year Consideration**: Although the current implementation assumes 365
-- days in a year, it doesn't consider leap years. A possible refactor could be
+  days in a year, it doesn't consider leap years. A possible refactor could be
   to account for leap years, which have 366 days.
 - **Parameter Validation**: Adding parameter validation to ensure the `age`
   parameter is a non-negative number could enhance the robustness of the function.
